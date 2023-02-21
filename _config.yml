@@ -23,9 +23,9 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
+    href:           "/innotep"
   - name:           "about"
-    href:           "/about"
+    href:           "/innotep/about"
   - name:           "publications"
     href:           "/publication"
   - name:           "people"
