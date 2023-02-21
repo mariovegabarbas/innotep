@@ -10,7 +10,7 @@ description:        "The Kording Lab is a computational neuroscience and causali
 
 # URL
 url:                https://mariovegabarbas.github.io/innotep/
-baseurl:            mariovegabarbas.github.io/innotep/
+baseurl:            /innotep
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
